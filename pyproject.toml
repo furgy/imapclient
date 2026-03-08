@@ -1,6 +1,6 @@
 [project]
 name = "imapclient"
-version = "0.1.0"
+version = "0.1.1"
 description = "IMAP Client library"
 requires-python = ">=3.7"
 dependencies = []
